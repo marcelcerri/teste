@@ -33,4 +33,4 @@ $a = b + c$
 | Poliestireno expandido | 0.035                         |
 | Ar                      | 0.026                         |
 
-α = k / (ρ * c)
+$α = k / (ρ * c)$
