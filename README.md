@@ -32,3 +32,5 @@ $a = b + c$
 | Madeira (pinho)         | 0.12                          |
 | Poliestireno expandido | 0.035                         |
 | Ar                      | 0.026                         |
+
+α = k / (ρ * c)
